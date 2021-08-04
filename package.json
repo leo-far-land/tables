@@ -1,0 +1,16 @@
+{
+  "name": "@tablescss/tables",
+  "version": "1.0.0",
+  "description": "CSS library to create responsive tables easily!",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leozamboni/Tables.git"
+  },
+  "author": "loenardo.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leozamboni/Tables/issues"
+  },
+  "homepage": "https://github.com/leozamboni/Tables#readme"
+}

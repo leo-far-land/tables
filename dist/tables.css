@@ -1,0 +1,101 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: rgb(32, 32, 32);
+    color: white;
+}
+
+/* lines */
+
+.table-lines-one {
+    height: 100vh;
+}
+
+.table-lines-two {
+    height: 50vh;
+}
+
+.table-lines-three {
+    height: 33.333333333333336vh;
+}
+
+.table-lines-four {
+    height: 25vh;
+}
+
+.table-lines-five {
+    height: 20vh;
+}
+
+.table-lines-six {
+    height: 16.66666666666667vh;
+}
+
+.table-lines-six {
+    height: 14.28571428571429vh;
+}
+
+.table-lines-eight {
+    height: 12.5vh;
+}
+
+.table-lines-nine {
+    height: 11.11111111111111vh;
+}
+
+.table-lines-ten {
+    height: 10vh;
+}
+
+/* columns */
+
+.table-columns-one {
+    display: grid;
+    grid-template-columns: auto;
+}
+
+.table-columns-two {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.table-columns-three {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.table-columns-four {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.table-columns-five {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+
+.table-columns-six {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+}
+
+.table-columns-seven {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+}
+
+.table-columns-eight {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto;
+}
+
+.table-columns-nine {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto;
+}
+
+.table-columns-ten {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto;
+}
